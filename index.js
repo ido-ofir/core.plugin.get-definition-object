@@ -43,7 +43,7 @@ function getDefinitionObject(name, dependencies, get, type, done) {
 }
 
 module.exports = {
-  name: 'core.getDefinitionObject',
+  name: 'core.plugin.get-definition-object',
   init(defintion, done) {
     this.extend({
       getDefinitionObject: getDefinitionObject

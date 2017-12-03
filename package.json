@@ -1,6 +1,6 @@
 {
-  "name": "core.plugin.core.get_definition_object",
-  "version": "1.0.0",
+  "name": "core.plugin.get-definition-object",
+  "version": "0.0.1",
   "description": "Normalizes the arguments of an instanciating type into an object.",
   "main": "index.js",
   "scripts": {
